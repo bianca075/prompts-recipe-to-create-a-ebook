@@ -2,6 +2,7 @@
 
 
  > **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui estudante na plataforma da [DIO](https://dio.me)
+ > **ATENÇÂO:** Este conteúdo foi gerado com fins didáticos
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
@@ -37,5 +38,5 @@ Midjourney：
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook gerado durante as aulas em `ebook`
 
